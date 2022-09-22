@@ -1,8 +1,5 @@
+- ![#f03c15] `#f03c15`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./light.png">
-</picture>
 # 🛃CUSTOMER CARE REGISTRY :
 - TECHNOLOGY : CLOUD APP DEVELOPMENT
 - TEAM ID : PNT2022TMID37544
