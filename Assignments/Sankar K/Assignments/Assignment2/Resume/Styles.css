@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(4, 202, 213);
+}
+h1 {
+  color: navy;
+  border-bottom: 6px solid red;
+  margin: 0 0 50px 0;
+}
+h2{
+    color: green;
+    margin: 20px 0 0 0;
+    border-left: 6px solid red;
+  }
+h3{
+    color: brown;
+    margin: 20px 0 0 0;
+}
+h4{
+    color: black;
+    margin: 20px 0 0 0;
+}
+p{
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+h5{
+  height: 200px;
+  width: 50%;
+  background-color: powderblue;
+}
