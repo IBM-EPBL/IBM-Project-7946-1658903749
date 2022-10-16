@@ -1,4 +1,15 @@
-# IDEATION PHASE :
-  Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques. Ideation is also the third stage in the Design Thinking process.
+# IDEATION PHASE
+- Literature Survey
+- Problem Statement
+- Empathy Map
+- Brainstorm
+   - Top 3 Ideas
 
+# DESIGN PHASE 01
+- Proposed Solution
+- Problem Solution Fit
+- Solution Architecture
 
+# DESIGN PHASE 02
+- Customer Journey Map
+- Solution Requirements
