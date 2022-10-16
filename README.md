@@ -17,5 +17,23 @@ USER: They can register for an account. After the login, they can create the com
 - Ponanbalagan S
 - Sankar K
 
+# 👨🏻‍💻 SOFTWARE REQUIRED
+- PYTHON
+- FLASK
+- DOCKER
+
+# 📒 ASSIGNMENT FINISHED
+ - ASSIGNMENT 1
+ - ASSIGNMENT 2
+ - ASSIGNMENT 3
+
+# 🧩 IDEATION PHASE
+-  Literature Survey
+- Problem Statement
+- Empathy Map
+- Brainstorm
+
+🧩 DESIGN PHASE
+  In the design phase, one or more designs are developed, with which the project result can apparently be achieved. Depending on the subject of the project, the        products of the design phase can include dioramas, sketches etc...
 # TECHNICAL ARCHITECHTURE:
 ![WhatsApp Image 2022-09-22 at 8 45 01 PM](https://user-images.githubusercontent.com/66785258/191786242-26da5b1a-4d05-48c6-a7d4-d8aa79666a83.jpeg)
