@@ -1,0 +1,57 @@
+#section1{
+    background-color: #D8D8D8;
+  }
+  
+#img1{
+    height: auto;
+    width: 100%;
+    border-radius: 30px;
+  }
+#container1col2{
+    text-align: center;
+    margin: auto;
+}
+.btn{
+    font-size: 20px;
+    font-weight: bolder;
+    margin: 2%;
+}
+.row2{
+    text-align: center;
+    color: #182747;
+}
+.fa-brands{
+    font-size: 4rem;
+    color: #182747;
+}
+#img2{
+    height: 100%;
+    width: auto;
+    border-radius: 30px;
+}
+.form-group{
+    padding: 3%;
+}
+.form-check{
+    margin-top: 3%;
+    margin-left: 3%;
+}
+
+#section3{
+    background-color: #D8D8D8;
+    font-size: 20px;
+    font-weight: 400;
+  }
+
+.registertohome{
+    margin-top: 3%;
+    margin-left: 3%;
+    border: none;
+    border-radius: 10px;
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    background-color: #F0F0F0;
+    font-weight: bolder;
+  }
